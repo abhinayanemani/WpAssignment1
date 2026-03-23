@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<courses>
+    <course>
+        <title>Web Development</title>
+        <instructor>Ravi Kumar</instructor>
+        <price>8000</price>
+    </course>
+
+    <course>
+        <title>Python Mastery</title>
+        <instructor>Anjali Sharma</instructor>
+        <price>9500</price>
+    </course>
+</courses>
